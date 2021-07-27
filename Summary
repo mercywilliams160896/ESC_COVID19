@@ -1,1 +1,8 @@
-
+Escape Mutants Data Summary.tsv
+  Provides the complete list of SARS-CoV-2 genetic variations associated with host immune evasion mechanism along with their corresponding functional annotations
+  
+Variant_mAB_interactions.txt
+  Summarizes the list of mutations along with their associated monoclonal antibodies or polyclonal sera (Natural infections as well as vaccine breakthrough events)
+  
+ESC_User Manual.pdf
+  A quick guide for users explaining the contents and highlights of the resource
