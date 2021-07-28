@@ -14,4 +14,7 @@ RBDsites_Abcounts.txt
   Summary of the counts of monoclonal antibodies and plasma associated with RBD sites 
   
 RBDsites_plasma.txt
-  List of RBD sites associated with plasma neutralization escape 
+  List of RBD sites associated with plasma neutralization escape
+  
+GISAID_genome_counts.txt
+  Complete list of genome counts by geographical locations provided by GISAID
