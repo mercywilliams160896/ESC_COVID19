@@ -9,3 +9,9 @@ ESC_User Manual.pdf
   
 metadatafile.zip
   The GISAID variant metadata file used for calculation of global and geographical variant frequencies
+  
+RBDsites_Abcounts.txt
+  Summary of the counts of monoclonal antibodies and plasma associated with RBD sites 
+  
+RBDsites_plasma.txt
+  List of RBD sites associated with plasma neutralization escape 
