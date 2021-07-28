@@ -6,3 +6,6 @@ Variant_mAB_interactions.txt
   
 ESC_User Manual.pdf
   A quick guide for users explaining the contents and highlights of the resource
+  
+metadatafile.zip
+  The GISAID variant metadata file used for calculation of global and geographical variant frequencies
