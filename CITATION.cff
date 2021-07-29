@@ -1,19 +1,19 @@
 cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Mercy
-    given-names: Rophina
-  - family-names: Kavita
-    given-names: Pandhare
-  - family-names: Afra
-    given-names: Shamnath
-  - family-names: Mohamed
-    given-names: Imran
-  - family-names: Bani
-    given-names: Jolly
-  - family-names: Vinod
-    given-names: Scaria
+  - family-names: Rophina
+    given-names: Mercy
+  - family-names: Pandhare
+    given-names: Kavita
+  - family-names: Shamnath
+    given-names: Afra
+  - family-names: Imran
+    given-names: Mohamed
+  - family-names: Jolly
+    given-names: Bani
+  - family-names: Scaria
+    given-names: Vinod
 title: "ESC - a comprehensive resource for SARS-CoV-2 immune escape variants"
 version: 2.0.4
-doi: 10.5281/zenodo.1234
+doi: https://doi.org/10.1101/2021.02.18.431922
 date-released: 2021-07-29
