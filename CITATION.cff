@@ -1,0 +1,15 @@
+# YAML 1.2
+---
+authors: 
+  -
+    family-names: Rophina
+    given-names: Mercy
+  -
+    family-names: Pandhare
+    given-names: Kavita
+cff-version: "1.1.0"
+date-released: 2021-07-29
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/mercywilliams160896/ESC_COVID19.git"
+title: "ESC - a comprehensive resource for SARS-CoV-2 immune escape variants"
+...
