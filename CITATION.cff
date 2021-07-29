@@ -1,0 +1,40 @@
+# YAML 1.2
+---
+abstract: "Ever since the breakout of COVID-19 disease, ceaseless genomic research to inspect the epidemiology and evolution of the pathogen has been undertaken globally. Large scale viral genome sequencing and analysis have uncovered the functional impact of numerous genetic variants in disease pathogenesis and transmission. Emerging evidence of mutations in spike protein domains escaping antibody neutralization is reported. We have a precise collation of manually curated variants in SARS-CoV-2 from literature with potential escape mechanisms from a range of neutralizing antibodies. This comprehensive repository encompasses a total of 4545 variants accounting for 2058 unique variants tested against 149 antibodies, patient convalescent plasma and vaccine breakthrough events. This resource enables the user to gain access to an extensive annotation of SARS-CoV-2 escape mutations which we hope would contribute to exploring and understanding the underlying mechanisms of immune response against the pathogen. The resource is available at http://clingen.igib.res.in/esc/"
+authors: 
+  -
+    affiliation: "CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB)"
+    family-names: Rophina
+    given-names: "Mercy "
+  -
+    affiliation: "CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB)"
+    family-names: Pandhare
+    given-names: "Kavita "
+  -
+    affiliation: "CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB)"
+    family-names: Shamnath
+    given-names: "Afra "
+  -
+    affiliation: "CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB)"
+    family-names: Imran
+    given-names: "Mohamed "
+  -
+    affiliation: "CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB)"
+    family-names: Jolly
+    given-names: "Bani "
+  -
+    affiliation: "CSIR Institute of Genomics and Integrative Biology (CSIR-IGIB)"
+    family-names: Scaria
+    given-names: "Vinod "
+cff-version: "1.1.0"
+date-released: 2021-07-29
+keywords: 
+  - "SARS-CoV-2"
+  - variants
+  - Neutralization
+  - "Escape mutations"
+license: 
+message: "If you use this software, please cite it using these metadata."
+repository-code: "https://github.com/mercywilliams160896/ESC_COVID19.git"
+title: "ESC - a comprehensive resource for SARS-CoV-2 immune escape variants"
+...
