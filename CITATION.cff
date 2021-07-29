@@ -14,6 +14,6 @@ authors:
   - family-names: Scaria
     given-names: Vinod
 title: "ESC - a comprehensive resource for SARS-CoV-2 immune escape variants"
-version: 2.0.4
+version: 1.0
 doi: https://doi.org/10.1101/2021.02.18.431922
 date-released: 2021-07-29
