@@ -2,13 +2,13 @@ Summary of genomes from GISAID used for variant freuqncy calculation
 
 GISAID Data 
 
-Date of last update	- 27.07.2021
-Total Genome count	- 2486362
+Date of last update	-31.08.2021
+Total Genome count	- 3149763
 
 Genome counts by geography
-Africa		- 29655
-Asia		- 164936
-Europe		- 1458626
-North America	- 767605
-Oceania		- 21433
-South America	- 44106 
+Africa		- 36812
+Asia		- 197313
+Europe		- 1828878
+North America	- 999151
+Oceania		- 28145
+South America	- 59462
